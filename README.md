@@ -2,6 +2,15 @@
 
 MathBOT is a calculator bot for discord. It reads messages and tries to evaluate it. If it can evaluate, then it sends the result.
 
+This bot doesn't need any prefix.
+
+Examples:
+- If you write "5+5", bot will reply with "5+5 = 10"
+- *I imported math lib so you can calculate everything in discord!*
+- If you use something from math module like "math.cos(90)" you will get "math.cos(90) = 0"
+- I don't know why but "..." means "Ellipsis" for some reason, nevermind it.
+- If you add any chracter to your message (except math module), it won't reply you.
+
 
 ## Usage
 
